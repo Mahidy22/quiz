@@ -1,0 +1,17 @@
+.card{
+    width : 550px;
+    margin : auto;
+    text-align: center;
+    border-radius: 7px;
+    color: white;
+}
+
+.images{
+    background: #000;
+    width: 200px;
+    float: left;
+    margin: 20px;
+    border-radius: 8px;
+    padding : 30px 10px
+
+}

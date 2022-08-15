@@ -1,0 +1,14 @@
+.card{
+    background:black;
+    width:200px;
+    margin: auto;
+    float: left;
+    margin-right: 20px;
+    height:200px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 30px;
+    color:white;
+    position: relative;
+}
+
